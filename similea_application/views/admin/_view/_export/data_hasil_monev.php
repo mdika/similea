@@ -1,0 +1,5 @@
+          <!-- Page Heading -->
+          <div class="d-sm-flex align-items-center justify-content-between mb-4">
+            <h1 class="h3 mb-0 text-gray-800"><?php echo $subtitle; ?></h1>
+            <a href="<?php echo base_url('admin/data_hasil_monev/export'); ?>" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i class="fas fa-download fa-sm text-white-50"></i> Export Data Hasil Monev</a>
+          </div>
